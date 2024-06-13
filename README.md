@@ -9,11 +9,14 @@
 4. Test Coverage: Aim for high test coverage to ensure most of the code paths are tested. Use tools like coverage.py to measure this.
    
 5. Documentation:
+   
   5.1 Docstrings and Comments: Ensure all functions and classes have appropriate docstrings explaining their purpose, inputs, and outputs.
+  
   5.2 External Documentation: Write comprehensive documentation detailing how to use the code, including examples and explanations of the API.
+  
   5.3 Readme File: Provide a README.md file with an overview, installation instructions, and basic usage examples.
    
-6. Packaging and Distribution:
+7. Packaging and Distribution:
    
   6.1 Setup Script: Create a setup.py or pyproject.toml file for packaging the code. This should include dependencies, entry points, and other metadata.
   6.2 Virtual Environment: Use a virtual environment to manage dependencies and ensure the code runs in a clean, isolated environment.
